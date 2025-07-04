@@ -13,7 +13,8 @@
     3.5. [Small Business Customer with Highest Sales](#5-small-business-customer-with-highest-sales)  
     3.6. [Corporate Customer with Most Orders (2009–2012)](#6-corporate-customer-with-most-orders-2009–2012)  
     3.7. [Customers Who Returned Items & Their Segment](#7-customers-who-returned-items--their-segment)  
-    4. [Recommendation](#contributing)
+    4.   [Sql file](#Sql file)
+    5.  [Recommendation](#contributing)
 
 This project presents a comprehensive analysis of Kultra's inventory and sales data using SQL. 
 The analysis answers key business questions related to sales performance, customer behavior, and product segmentation.
@@ -319,7 +320,9 @@ ORDER BY
     Returned_Orders DESC;
 Select * from [dbo].[KMS Sql Case Study2]
 
+ #### Sql file
 
+## Recommendation
 -----Recommendation
 What the management of KMS can do to increase the revenue from the bottom 
 10 customers -----
