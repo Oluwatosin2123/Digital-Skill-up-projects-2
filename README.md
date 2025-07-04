@@ -39,7 +39,7 @@ The analysis answers key business questions related to sales performance, custom
 
 ![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-Africa-Projects/blob/6d6e0934b91bca0b958bb9ca0d6a58cb8e7a7706/Count.png)
 ![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-Africa-Projects/blob/2fa903235d515d298656998760605c4fcf355387/Highest%20top%203%20Region.png)
-![image alt]
+![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/5edf38eb0dcd255effa602757824ef7ee990d408/Average%20profit.png)
 ### Sql file [Download Here]https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/0b53ad6c646c8a2cc94b44351c0b708cd4172275/Kultra%20inventory%20Analysis.%20sql.txt
 
 
