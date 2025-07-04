@@ -4,8 +4,9 @@
 
 1. [Project Overview](#project-overview)  
 2. [Dataset Overview](#dataset-overview)
-3. [Result Image Attach](#Result)   
-4. [Analysis Questions & SQL Queries](#analysis-questions--sql-queries)  
+3. [Result Image Attach](#Result)
+4.  [Sql file](#Sql file)  
+5. [Analysis Questions & SQL Queries](#analysis-questions--sql-queries)  
     3.1. [Product Category with Highest Sales](#1-product-category-with-highest-sales)  
     3.2. [Top 3 and Bottom 3 Regions by Sales](#2-top-3-and-bottom-3-regions-by-sales)  
     3.3. [Total Sales of Appliances in Ontario](#3-total-sales-of-appliances-in-ontario)  
@@ -13,9 +14,9 @@
     3.5. [Small Business Customer with Highest Sales](#5-small-business-customer-with-highest-sales)  
     3.6. [Corporate Customer with Most Orders (2009–2012)](#6-corporate-customer-with-most-orders-2009–2012)  
     3.7. [Customers Who Returned Items & Their Segment](#7-customers-who-returned-items--their-segment)  
-    4.   [Sql file](#Sql file)
-    5.    [Recommendation](#contributing)
- [Recommendation](#contributing)
+    4.  [Recommendation](#contributing)
+       
+
 
 This project presents a comprehensive analysis of Kultra's inventory and sales data using SQL. 
 The analysis answers key business questions related to sales performance, customer behavior, and product segmentation.
@@ -38,6 +39,9 @@ The analysis answers key business questions related to sales performance, custom
 
 ![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-Africa-Projects/blob/6d6e0934b91bca0b958bb9ca0d6a58cb8e7a7706/Count.png)
 ![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-Africa-Projects/blob/2fa903235d515d298656998760605c4fcf355387/Highest%20top%203%20Region.png)
+
+### Sql file [Download Here]https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/0b53ad6c646c8a2cc94b44351c0b708cd4172275/Kultra%20inventory%20Analysis.%20sql.txt
+
 
 ## Analysis Questions & SQL Queries
 
@@ -321,9 +325,7 @@ ORDER BY
     Returned_Orders DESC;
 Select * from [dbo].[KMS Sql Case Study2]
 
- ### Sql file [Download Here]https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/0b53ad6c646c8a2cc94b44351c0b708cd4172275/Kultra%20inventory%20Analysis.%20sql.txt
-
-## Recommendation
+ ## Recommendation
 -----Recommendation
 What the management of KMS can do to increase the revenue from the bottom 
 10 customers -----
