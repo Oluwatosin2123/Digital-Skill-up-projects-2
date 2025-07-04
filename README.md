@@ -5,7 +5,7 @@
 1. [Project Overview](#project-overview)  
 2. [Dataset Overview](#dataset-overview)
 3. [Result Image Attach](#Result)
-4.  [Sql file](#Sql file)  
+4. [Sql file](#Sql-file)  
 5. [Analysis Questions & SQL Queries](#analysis-questions--sql-queries)  
     3.1. [Product Category with Highest Sales](#1-product-category-with-highest-sales)  
     3.2. [Top 3 and Bottom 3 Regions by Sales](#2-top-3-and-bottom-3-regions-by-sales)  
