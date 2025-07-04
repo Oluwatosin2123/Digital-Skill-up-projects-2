@@ -321,7 +321,7 @@ ORDER BY
     Returned_Orders DESC;
 Select * from [dbo].[KMS Sql Case Study2]
 
- ### Sql file [Download Here]
+ ### Sql file [Download Here]https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/0b53ad6c646c8a2cc94b44351c0b708cd4172275/Kultra%20inventory%20Analysis.%20sql.txt
 
 ## Recommendation
 -----Recommendation
