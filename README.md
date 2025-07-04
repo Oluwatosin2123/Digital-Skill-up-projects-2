@@ -14,7 +14,8 @@
     3.6. [Corporate Customer with Most Orders (2009–2012)](#6-corporate-customer-with-most-orders-2009–2012)  
     3.7. [Customers Who Returned Items & Their Segment](#7-customers-who-returned-items--their-segment)  
     4.   [Sql file](#Sql file)
-    5.  [Recommendation](#contributing)
+    5.    [Recommendation](#contributing)
+ [Recommendation](#contributing)
 
 This project presents a comprehensive analysis of Kultra's inventory and sales data using SQL. 
 The analysis answers key business questions related to sales performance, customer behavior, and product segmentation.
