@@ -342,10 +342,13 @@ What the management of KMS can do to increase the revenue from the bottom
  ---- Bottom_Total_Revenue,
  --- Revenue_Gap
   ---FROM Revenue_Gap;
+
+```
 ----Recommendation
 If the delivery truck is the most economical but the slowest shipping method and 
 * Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 *Since the Express Air and Regular Air has more high order priority and order count Kultra Iventory should increase the shipping costbase on the Order Quantity so that the company will have a profitable gain and not lost.
 
+![image alt]
     
