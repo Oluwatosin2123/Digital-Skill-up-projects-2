@@ -350,6 +350,10 @@ If the delivery truck is the most economical but the slowest shipping method and
 
 *Since the Express Air and Regular Air has more high order priority and order count Kultra Iventory should increase the shipping costbase on the Order Quantity so that the company will have a profitable gain and not lost.
 
+### Structured Data from the database exported to Excel workbook 
+![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/5b6bbb9b90b08ab2905298ee5a7ab432e575e044/KMS%20Exported%20to%20Excel.png)
+
+
 ### Dashboard Visualization 
 ![image alt](https://github.com/Oluwatosin2123/Digital-Skill-up-projects-2/blob/45002c28b462c2288476f270b0cd9fb62569176d/KMS%20DASHBOARD.png)
     
