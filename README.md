@@ -15,7 +15,8 @@
     3.6. [Corporate Customer with Most Orders (2009–2012)](#6-corporate-customer-with-most-orders-2009–2012)  
     3.7. [Customers Who Returned Items & Their Segment](#7-customers-who-returned-items--their-segment)  
     4.  [Recommendation](#contributing)
-    5.  [Structured Data from the database exported to Excel workbook ](#8-structured-data-from the-database-exported-to-excel-workbook)
+    6.  [Structured Data from the database exported to Excel workbook ](#8-structured-data-from-the-database-exported-to-excel-workbook)
+    7.  [Dashboard Visualization](#9-dashboard-visualization)
    
    
        
